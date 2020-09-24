@@ -17,3 +17,4 @@ You'll find the following snippets in 📂 `wp-ultimo-1x` folder.
 - Insert class on WP Ultimo sign up pages for custom styling. - File: `insert-class-on-sign-up-pages.php`
 - Prefill domain title and URL fields on sign up - File: `prefill.php`
 - Move steps navigation to top of the page - File: `move-steps-to-top.php`
+- Remove WP Ultimo Meta Generator Tag - File: `remove-meta-generator.php`
