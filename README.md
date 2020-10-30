@@ -1,6 +1,8 @@
 # WP Ultimo 2.0 Snippet Library 
 
-Snippets coming soon
+You'll find the following snippets in 📂 `wp-ultimo-2x` folder.
+
+- Remove WP Ultimo Network Widgets - File: `remove-network-widgets.php`
 
 # WP Ultimo Snippet Library
 
