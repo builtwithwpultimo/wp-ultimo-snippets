@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Remove the network dashboard widgets from the WP Ultimo 2.x plugin.
+ */
+
 function remove_wpultimo_network_dashboard_widgets() {
 
 	remove_meta_box( 'wp-ultimo-setup', 'dashboard-network', 'normal' );
