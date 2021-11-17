@@ -3,6 +3,8 @@
 You'll find the following snippets in 📂 `wp-ultimo-2x` folder.
 
 - Remove WP Ultimo Network Widgets - File: `remove-network-widgets.php`
+- Remove WP Ultimo Network Activation Check - File: `bypass-network-activation-check.php`
+- Remove WP Ultimo Network Branding - File: `remove-ultimo-branding.php`
 
 # WP Ultimo Snippet Library
 
