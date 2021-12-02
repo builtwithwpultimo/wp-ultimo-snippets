@@ -1,3 +1,5 @@
+Snippet Libraries of WP Ultimo ​and 3th Party Plugins that work in conjunction with WP Ultimo. 
+
 # WP Ultimo 2.0 Snippet Library 
 
 You'll find the following snippets in 📂 `wp-ultimo-2x` folder.
