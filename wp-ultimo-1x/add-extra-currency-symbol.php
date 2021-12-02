@@ -15,3 +15,5 @@ function add_currency_symbol($symbol, $currency) {
   }
   
 };
+
+?>
