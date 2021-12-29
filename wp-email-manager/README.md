@@ -1,5 +1,7 @@
 # WP Email Manager Snippet Library 
 
+### WP Ultimo v1
+
 You'll find the following snippets in 📂 `/wp-email-manager/wp-ultimo-1x` folder.
 
 - Sync domain with email server when added in WP Ultimo - File: `sync-add-domain-with-email-server.php`
@@ -11,6 +13,8 @@ You'll find the following snippets in 📂 `/wp-email-manager/wp-ultimo-1x` fold
 2) You have enabled WP Ultimo integration in the general settings section.
 
 **Note:** If a particular subsite has the _**Custom Configuration Addon**_ enabled, the domain syncing will be associated with the subsite’s email server and not the network’s email server.
+
+### WP Ultimo v2
 
 You'll find the following snippets in 📂 `/wp-email-manager/wp-ultimo-2x` folder.
 
