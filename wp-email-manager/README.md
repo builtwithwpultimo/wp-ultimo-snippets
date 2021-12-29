@@ -33,8 +33,11 @@ You'll find the following snippets in 📂 `/wp-email-manager/wp-ultimo-2x` fold
 You'll find the following snippets in 📂 `/wp-email-manager` folder.
 
 ### wp_email_manager_create_account
-This action runs when an email account is created. - File: `wp-email-manager-create-account.php`
+This action runs when an email account is created. 
+- File: `wp-email-manager-create-account.php`
 ### wp_email_manager_invalid_credentials
-This action runs when a routine cron job (every hour) detects that the server credentials are invalid. - File: `wp-email-manager-invalid-credentials.php`
+This action runs when a routine cron job (every hour) detects that the server credentials are invalid. 
+- File: `wp-email-manager-invalid-credentials.php`
 ### wp_email_manager_update_account
-This action runs when an email account is updated. - File: `wp-email-manager-update-account.php`
+This action runs when an email account is updated. 
+- File: `wp-email-manager-update-account.php`
