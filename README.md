@@ -58,7 +58,7 @@ This action runs when an email account is updated.
 # DNS Manager Snippet Library
 
 ### DNS Manager by KeyPress Media (Discontinued)
-You'll find the following snippets in 📂 `dns-manager-getkeypress` folder.
+You'll find the following snippets in 📂 `dns-manager/getkeypress` folder.
 
 ### DNS Manager by DS Development Solutions (Forked from Keypress Media)
-You'll find the following snippets in 📂 `dns-manager-dsdevsolutions` folder.
+You'll find the following snippets in 📂 `dns-manager/dsdevsolutions` folder.
