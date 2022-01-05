@@ -60,5 +60,9 @@ This action runs when an email account is updated.
 ### DNS Manager by KeyPress Media (Discontinued)
 You'll find the following snippets in 📂 `dns-manager/getkeypress` folder.
 
+_Developed till v1.3.2_
+
 ### DNS Manager by DS Development Solutions (Forked from Keypress Media)
 You'll find the following snippets in 📂 `dns-manager/dsdevsolutions` folder.
+
+_Developed from v1.4.0 and up containing bugfixes and new features_
