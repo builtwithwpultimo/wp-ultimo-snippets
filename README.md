@@ -8,21 +8,6 @@ You'll find the following snippets in 📂 `wp-ultimo-2x` folder.
 - Bypass WP Ultimo Network Activation Check - File: `bypass-network-activation-check.php`
 - Remove WP Ultimo Network Branding - File: `remove-ultimo-branding.php`
 
-# WP Email Manager Snippet Library 
-
-You'll find the following snippets in 📂 `wp-email-manager` folder.
-
-- Sync domain with email server when added in WP Ultimo - File: `sync-add-domain-with-email-server.php`
-- Sync domain with email server when deleted in WP Ultimo - File: `sync-delete-domain-with-email-server.php`
-
-# DNS Manager Snippet Library
-
-### DNS Manager by KeyPress Media (Graveyard)
-You'll find the following snippets in 📂 `dns-manager-getkeypress` folder.
-
-### DNS Manager by DS Development Solutions (Forked from Keypress Media)
-You'll find the following snippets in 📂 `dns-manager-dsdevsolutions` folder.
-
 # WP Ultimo Snippet Library (Legacy)
 
 You'll find the following snippets in 📂 `wp-ultimo-1x` folder.
@@ -39,3 +24,41 @@ You'll find the following snippets in 📂 `wp-ultimo-1x` folder.
 - Prefill domain title and URL fields on sign up - File: `prefill.php`
 - Move steps navigation to top of the page - File: `move-steps-to-top.php`
 - Remove WP Ultimo Meta Generator Tag - File: `remove-meta-generator.php`
+
+# WP Email Manager Snippet Library 
+
+### WP Ultimo v1
+
+You'll find the following snippets in 📂 `/wp-email-manager/wp-ultimo-1x` folder.
+
+- Sync domain with email server when added in WP Ultimo - File: `sync-add-domain-with-email-server.php`
+- Sync domain with email server when deleted in WP Ultimo - File: `sync-delete-domain-with-email-server.php`
+
+### WP Ultimo v2
+
+You'll find the following snippets in 📂 `/wp-email-manager/wp-ultimo-2x` folder.
+
+- Sync domain with email server when added in WP Ultimo - File: `sync-add-domain-with-email-server.php`
+- Sync domain with email server when deleted in WP Ultimo - File: `sync-delete-domain-with-email-server.php`
+
+## Actions
+
+You'll find the following snippets in 📂 `/wp-email-manager` folder.
+
+### wp_email_manager_create_account
+This action runs when an email account is created. 
+- File: `wp-email-manager-create-account.php`
+### wp_email_manager_invalid_credentials
+This action runs when a routine cron job (every hour) detects that the server credentials are invalid. 
+- File: `wp-email-manager-invalid-credentials.php`
+### wp_email_manager_update_account
+This action runs when an email account is updated. 
+- File: `wp-email-manager-update-account.php`
+
+# DNS Manager Snippet Library
+
+### DNS Manager by KeyPress Media (Discontinued)
+You'll find the following snippets in 📂 `dns-manager-getkeypress` folder.
+
+### DNS Manager by DS Development Solutions (Forked from Keypress Media)
+You'll find the following snippets in 📂 `dns-manager-dsdevsolutions` folder.
