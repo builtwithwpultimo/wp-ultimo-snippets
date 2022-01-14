@@ -100,3 +100,15 @@ define( 'WP_EM_HOST_USERNAME', 'package_id' );
 define( 'WP_EM_HOSTNAME', 'domain.com' );       
 define( 'WP_EM_HOST_PROVIDER', 'twentyi' );
 ```
+
+## VestaCP / HestiaCP
+
+Replace `password`, `username`, `port`, and `domain.com` with the appropriate values. Learn more about VestaCP requirements [here](https://wpemailmanager.com/documentation/vestacp/vestacp-requirements/) and HestiaCP requirements [here](https://wpemailmanager.com/documentation/hestiacp/hestiacp-requirements/).
+
+```
+define( 'WP_EM_HOST_PASSWORD', 'password' );
+define( 'WP_EM_HOST_USERNAME', 'username' );
+define( 'WP_EM_HOST_PORT', 'port' ); //Default value is 8083            
+define( 'WP_EM_HOSTNAME', 'domain.com' );       
+define( 'WP_EM_HOST_PROVIDER', 'vestacp' ); 
+```
