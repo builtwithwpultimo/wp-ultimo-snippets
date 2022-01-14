@@ -1,6 +1,6 @@
 # WP Email Manager - WP Config setup
 
-If the credentials entered at the general settings page are not successfully written to wp-config.php, you have to enter the following constants, depending on your server management system or email server:
+If the credentials entered at the general settings page are not successfully written to `wp-config.php`, you have to enter the following constants, depending on your server management system or email server:
 
 ## CentOS Web Panel
 
