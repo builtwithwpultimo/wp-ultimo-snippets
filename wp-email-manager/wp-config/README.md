@@ -92,7 +92,7 @@ define( 'WP_EM_HOST_PROVIDER', 'poste' );
 
 ## 20i / StackCP
 
-Replace `api_key`, `package_id` [?](https://wpemailmanager.com/documentation/20i-stackcp/how-do-i-determine-my-package-id/), and `domain.com` with the appropriate values. Learn how to generate an access token [here](https://my.20i.com/reseller/api) and the account requirements [here](https://wpemailmanager.com/documentation/20i-stackcp/20i-stackcp-requirements/).
+Replace `api_key`, `package_id` [(?)](https://wpemailmanager.com/documentation/20i-stackcp/how-do-i-determine-my-package-id/), and `domain.com` with the appropriate values. Learn how to generate an access token [here](https://my.20i.com/reseller/api) and the account requirements [here](https://wpemailmanager.com/documentation/20i-stackcp/20i-stackcp-requirements/).
 
 ```
 define( 'WP_EM_HOST_API_KEY', 'api_key' ); // General API key
