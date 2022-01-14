@@ -16,5 +16,4 @@ if (file_exists($wp_email_manager_sunrise)) {
 	require_once $wp_email_manager_sunrise;
 	WP_Email_Manager\Sunrise::init();
 } 
-
 ```
