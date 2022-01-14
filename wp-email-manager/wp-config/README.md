@@ -4,7 +4,7 @@ If the credentials entered at the general settings page are not successfully wri
 
 ## CentOS Web Panel
 
-Replace `username`, `apikey` and `domain.com` with the appropriate values. Learn more about CentOS Web Panel requirements here.
+Replace `username`, `apikey` and `domain.com` with the appropriate values. Learn more about CentOS Web Panel requirements [here](https://wpemailmanager.com/documentation/centos-web-panel/centos-web-panel-requirements/).
 
 ```
 define( 'WP_EM_HOST_API_KEY', 'apikey' );
