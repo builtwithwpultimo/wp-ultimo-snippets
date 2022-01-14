@@ -10,7 +10,7 @@ Replace `username`, `apikey` and `domain.com` with the appropriate values. Learn
 define( 'WP_EM_HOST_API_KEY', 'apikey' );
 define( 'WP_EM_HOST_USERNAME', 'username' );
 define( 'WP_EM_HOSTNAME', 'domain.com' );       
-define( 'WP_EM_HOST_PROVIDER', 'cwp');
+define( 'WP_EM_HOST_PROVIDER', 'cwp' );
 ```
 
 ## cPanel Constants
@@ -34,7 +34,7 @@ define( 'WP_EM_HOST_PASSWORD', 'password' );
 define( 'WP_EM_HOST_USERNAME', 'username' );
 define( 'WP_EM_HOST_PORT', 'port' ); //Default value is 2222            
 define( 'WP_EM_HOSTNAME', 'domain.com' );       
-define( 'WP_EM_HOST_PROVIDER', 'directadmin'); 
+define( 'WP_EM_HOST_PROVIDER', 'directadmin' ); 
 ```
 
 ## Mailcheap / Mailbux
@@ -45,7 +45,7 @@ Replace `password`, `username`, and `domain.com` with the appropriate values. Th
 define( 'WP_EM_HOST_PASSWORD', 'password' );
 define( 'WP_EM_HOST_USERNAME', 'username' );       
 define( 'WP_EM_HOSTNAME', 'domain.com' );       
-define( 'WP_EM_HOST_PROVIDER', 'mailcheap'); 
+define( 'WP_EM_HOST_PROVIDER', 'mailcheap' ); 
 ```
 
 ## Mailcow Email Server
@@ -55,7 +55,7 @@ Replace `api_key` and `domain.com` with the appropriate values. Learn how to cre
 ```
 define( 'WP_EM_HOST_API_KEY', 'api_key' ); 
 define( 'WP_EM_HOSTNAME', 'domain.com' );       
-define( 'WP_EM_HOST_PROVIDER', 'mailcow');
+define( 'WP_EM_HOST_PROVIDER', 'mailcow' );
 ```
 
 ## Mailbox
@@ -66,7 +66,7 @@ Replace `username`, `password`, and `domain.com` with the appropriate values. Th
 define( 'WP_EM_HOSTNAME', 'domain.com' ); 
 define( 'WP_EM_HOST_USERNAME', 'username' );      
 define( 'WP_EM_HOST_PASSWORD', 'password' );
-define( 'WP_EM_HOST_PROVIDER', 'mailbox');
+define( 'WP_EM_HOST_PROVIDER', 'mailbox' );
 ```
 
 ## Modoboa Email Server
@@ -76,7 +76,7 @@ Replace `api_key` and `domain.com` with the appropriate values. Learn how to cre
 ```
 define( 'WP_EM_HOST_API_KEY', 'api_key' ); 
 define( 'WP_EM_HOSTNAME', 'domain.com' );       
-define( 'WP_EM_HOST_PROVIDER', 'modoboa');
+define( 'WP_EM_HOST_PROVIDER', 'modoboa' );
 ```
 
 ## Poste Email Server
@@ -87,7 +87,7 @@ Replace `username`, `password`, and `domain.com` with the appropriate values.
 define( 'WP_EM_HOSTNAME', 'domain.com' ); 
 define( 'WP_EM_HOST_USERNAME', 'username' );      
 define( 'WP_EM_HOST_PASSWORD', 'password' );
-define( 'WP_EM_HOST_PROVIDER', 'poste');
+define( 'WP_EM_HOST_PROVIDER', 'poste' );
 ```
 
 ## 20i / StackCP
@@ -98,5 +98,5 @@ Replace `api_key`, `package_id` [?](https://wpemailmanager.com/documentation/20i
 define( 'WP_EM_HOST_API_KEY', 'api_key' ); // General API key
 define( 'WP_EM_HOST_USERNAME', 'package_id' );
 define( 'WP_EM_HOSTNAME', 'domain.com' );       
-define( 'WP_EM_HOST_PROVIDER', 'twentyi');
+define( 'WP_EM_HOST_PROVIDER', 'twentyi' );
 ```
