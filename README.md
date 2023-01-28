@@ -14,7 +14,8 @@ You'll find the following snippets in 📂 `wp-ultimo-1x` folder.
 
 - Add Google Tag Manager to WP Ultimo's Sign-up - File: `add-gtm-to-signup.php`
 - Add Intercom to WP Ultimo's Sign-up - File: `add-intercom-to-signup.php`
-- Add name fields (first and last name) to the Account step on the sign-up flow - File: `name-fields.php`
+- Add a new step the user sign-up flow - File: `add-a-step-to-user-sign-up-flow.php`
+- Add name fields (first and last name) to the Account step on the sign-up flow - File: `add-fields-to-sign-up-flow-account-step.php`
 - Add extra currency to the list of WP Ultimo currencies - File: `add-custom-currency.php`
 - Add tracking code to capture conversions on user first access of the admin panel - File: `conversion-pixel.php`
 - Add user role on sign up - File: `add-user-role.php`
